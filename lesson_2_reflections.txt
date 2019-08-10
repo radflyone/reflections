@@ -1,0 +1,1 @@
+hat happens when you initialize a repository? Why do you need to do it?  It sets a starting point for tracking changes.
